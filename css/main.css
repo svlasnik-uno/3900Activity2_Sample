@@ -1,5 +1,6 @@
 
 /*************************************
+This css file includes several different formatting examples
 GENERAL
 **************************************/
 a {
@@ -11,8 +12,6 @@ img {
 max-width: 100%;
 
 }
-
-
 
  body {
    font-family: 'Open Sans', sans-serif;
@@ -67,8 +66,6 @@ header {
  }
 
  h2  {
-
-
  font-size: 1.00em;
  font-weight: normal;
  margin: -5px 0 0;
@@ -77,17 +74,10 @@ header {
 
 
 h3  {
-
-
     font-size: 1.1em;
     font-weight: 700;
     margin: 15px 0 0;
 }
-
-
-
-
-
 
 
 /*************************************
@@ -110,12 +100,10 @@ nav li {
 
 }
 
-
-
 /*************************************
 FOOTER
 **************************************/
- footer {
+ .footer {
  font-size: 0.75em;
  text-align: center;
  clear: both;
